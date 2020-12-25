@@ -1,0 +1,1 @@
+Mahjong made from class instruction
