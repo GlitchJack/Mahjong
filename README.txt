@@ -1,1 +1,1 @@
-Mahjong made from class instruction
+Mahjong made with class instruction and updated individually
